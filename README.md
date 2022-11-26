@@ -6,4 +6,4 @@ Created using JavaScript, HTML, and CSS
 
 Depoyed through Netlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aabc3832-bae5-4f81-ac97-147170ca019e/deploy-status)](https://app.netlify.com/sites/justin-tsugranes-lotto-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bf53567a-90c6-435c-a30c-395f54249248/deploy-status)](https://app.netlify.com/sites/justin-tsugranes-lotto-app/deploys)
